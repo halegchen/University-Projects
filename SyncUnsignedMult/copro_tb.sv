@@ -1,7 +1,6 @@
 `timescale  1ns / 1ns
 // testbench for coprocessor of 32-bit mult
-// Guoyu Chen
-// EE412 Quiz5
+// GC
 module  copro_tb ;
 
 // Parameters
