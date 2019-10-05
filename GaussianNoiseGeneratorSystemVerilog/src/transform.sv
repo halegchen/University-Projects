@@ -1,4 +1,4 @@
-//EE412 Project
+
 //Noise generation without normalization
 
 //Module Name
