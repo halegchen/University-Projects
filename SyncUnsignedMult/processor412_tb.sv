@@ -1,6 +1,5 @@
 `timescale  1ns / 1ns
-// Testbench for EE412 processor
-// Quiz 5
+// Testbench 
 // Test 0x12345678 * 0xFEDCBA98 = 0x121FA00A 0X35068740
 module  processor412_tb ;
 
