@@ -1,6 +1,6 @@
 `timescale  1ns / 1ns
 //Testbench for uniform random number generator
-//EE412 Gaussian noise generator project
+// Gaussian noise generator project
 
 module noise_tb;
 //Parameters
