@@ -1,4 +1,4 @@
-//EE412 Project
+
 //Uniform random number generator
 //numbers are seperated into start,
 //stride and mask
