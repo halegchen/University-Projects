@@ -1,7 +1,6 @@
 `timescale  1ns / 1ns
 // Co-processor for 32-bit multiplication
-// Guoyu Chen
-// EE412 Quiz 5
+// GC
 //
 module  copro  (
   input  logic          rb    , //clear registers
